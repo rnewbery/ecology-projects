@@ -1,7 +1,7 @@
 # Ecological Projects
 
 This repository collects small ecology and wildlife data projects.  
-It highlights analytical and visual projects developed using **R, Python, and Power BI** - each grounded in real or simulated ecological data.
+It highlights analytical and visual projects developed using **R, Python, and SQL** - each grounded in real ecological data.
 
 ---
 
