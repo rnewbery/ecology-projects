@@ -39,8 +39,11 @@ Total butterfly abundance and species richness by habitat type.
 | Rides, clearings and glades         | 5                   | 2                |
 | Broad-leaved woodland               | 4                   | 2                |
 
+Scrub–woodland edge habitats supported both the highest butterfly abundance and the greatest species richness, highlighting the importance of ecotonal habitats within the site.
+
 ## Study Area and Habitat Context
 
 The map below shows the Phase 1 habitat classification at Bookham Common and the locations of butterfly survey areas used in this study.
 
-![Phase 1 habitat map of Bookham Common showing butterfly survey locations](Butterfly Survey GIS Map.png)
+![Phase 1 habitat map of Bookham Common showing butterfly survey locations](images/Butterfly Survey GIS Map.png)
+
