@@ -28,7 +28,19 @@ Analysis was conducted using PostgreSQL and includes:
 ## Outputs
 - Cleaned CSV dataset
 - Reproducible SQL analysis script
-- Phase 1 habitat map showing survey areas
+- Summary Results:
 
-## Notes
-This project is intended as a demonstrative ecology + data analysis workflow rather than a statistically powered ecological study.
+Total butterfly abundance and species richness by habitat type.
+
+| Habitat type                         | Total abundance (n) | Species richness |
+|-------------------------------------|---------------------|------------------|
+| Scrub–woodland edge                 | 9                   | 4                |
+| Wet grassland, fens, pond margins   | 8                   | 2                |
+| Rides, clearings and glades         | 5                   | 2                |
+| Broad-leaved woodland               | 4                   | 2                |
+
+## Study Area and Habitat Context
+
+The map below shows the Phase 1 habitat classification at Bookham Common and the locations of butterfly survey areas used in this study.
+
+![Phase 1 habitat map of Bookham Common showing butterfly survey locations](Butterfly Survey GIS Map.png)
