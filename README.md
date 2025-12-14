@@ -7,9 +7,11 @@ It highlights analytical and visual projects developed using **R, Python, and Po
 
 ## Featured Projects
 
-- [**Western Kingbird Analysis**](./western-kingbird-analysis)  
-  Statistical comparison of morphometric traits across populations using R.  
-  *Skills:* GLM, ANOVA, data visualisation, reproducible workflows.
+- [**Wetland Bird Trends Analysis**](./wetland-bird-survey)  
+  Data cleaning, summary statistics, species abundance, Shannon Diversity calculations, habitat-level summaries, and dashboard visualisations.
+
+- [**Butterfly Survey (Phase 1 Hab)**] (./butterfly-survey) 
+  Interactive visualisation of habitat data and survey metrics.
 
 - [**Garden Birdwatch Summary**](./garden-birdwatch-summary)  
   Python script automating the categorisation and summary of bird survey data.  
@@ -19,11 +21,9 @@ It highlights analytical and visual projects developed using **R, Python, and Po
   Exploratory analysis of tree species, canopy cover, and site conditions.  
   *Skills:* Python (Pandas, Matplotlib), ecological data summaries, visual reporting.
 
-- [**Wetland Bird Trends Analysis**](./wetland-bird-survey)  
-  Data cleaning, summary statistics, species abundance, Shannon Diversity calculations, habitat-level summaries, and dashboard visualisations.
-
-- [**Biodiversity Dashboard (Power BI)**] – *Coming soon*  
-  Interactive visualisation of habitat data and survey metrics.
+  - [**Western Kingbird Analysis**](./western-kingbird-analysis)  
+  Statistical comparison of morphometric traits across populations using R.  
+  *Skills:* GLM, ANOVA, data visualisation, reproducible workflows.
 
 ---
 
