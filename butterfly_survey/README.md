@@ -45,5 +45,5 @@ Scrub–woodland edge habitats supported both the highest butterfly abundance an
 
 The map below shows the Phase 1 habitat classification at Bookham Common and the locations of butterfly survey areas used in this study.
 
-![Phase 1 habitat map of Bookham Common showing butterfly survey locations](images/Butterfly Survey GIS Map.png)
+![Phase 1 habitat map of Bookham Common showing butterfly survey locations](bookham_phase1_butterfly_map.png)
 
