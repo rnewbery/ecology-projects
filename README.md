@@ -37,6 +37,6 @@ My work bridges conservation and analytics — from species survey data in R and
 ## Tools and Skills
 
 - **Languages:** R, Python, SQL, Markdown  
-- **Libraries/Packages:** tidyverse, ggplot2, pandas, matplotlib  
-- **Visualisation:** Power BI, QGIS, ArcGIS  
+- **Libraries/Packages:** postgresql, tidyverse, ggplot2, pandas, matplotlib  
+- **Visualisation:** QGIS, ArcGIS  
 - **Focus Areas:** Biodiversity data analysis, ecological statistics, reproducible workflows  
