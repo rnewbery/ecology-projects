@@ -10,7 +10,7 @@ It highlights analytical and visual projects developed using **R, Python, and SQ
 - [**Wetland Bird Trends Analysis**](./wetland-bird-survey)  
   Data cleaning, summary statistics, species abundance, Shannon Diversity calculations, habitat-level summaries, and dashboard visualisations.
 
-- [**Butterfly Survey (Phase 1 Hab)**](./butterfly-survey)
+- [**Butterfly Survey (Phase 1 Hab)**](./butterfly_survey)
   Data cleaning, species abundance, species richness, habitat summaries and a GIS map of survey areas.
 
 - [**Garden Birdwatch Summary**](./garden-birdwatch-summary)  
