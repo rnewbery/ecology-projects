@@ -1,6 +1,6 @@
 # Ecological Projects
 
-This repository collects small ecology and wildlife data projects.  
+This repository contains a collection of small and long-term ecology and wildlife data projects I have undertaken independently.  
 It highlights analytical and visual projects developed using **R, Python, and SQL** - each grounded in real ecological data.
 
 ---
@@ -21,7 +21,7 @@ It highlights analytical and visual projects developed using **R, Python, and SQ
   Exploratory analysis of tree species, canopy cover, and site conditions.  
   *Skills:* Python (Pandas, Matplotlib), ecological data summaries, visual reporting.
 
-  - [**Western Kingbird Analysis**](./western-kingbird-analysis)  
+- [**Western Kingbird Analysis**](./western-kingbird-analysis)  
   Statistical comparison of morphometric traits across populations using R.  
   *Skills:* GLM, ANOVA, data visualisation, reproducible workflows.
 
@@ -29,8 +29,8 @@ It highlights analytical and visual projects developed using **R, Python, and SQ
 
 ## About
 
-I’m currently completing an **MSc in Wildlife Biology & Conservation** while developing analytical projects that blend ecological field data with data science tools.  
-My work bridges conservation and analytics — from species survey data in R and Python to dashboards that communicate biodiversity insights clearly and accessibly.
+I’m currently completing an **MSc in Wildlife Biology & Conservation** while developing analytical projects with a range of courses that blend ecological field data with data science tools.  
+My work bridges conservation and analytics - from species survey data in R and Python to dashboards that communicate biodiversity insights clearly and accessibly.
 
 ---
 
@@ -38,5 +38,5 @@ My work bridges conservation and analytics — from species survey data in R and
 
 - **Languages:** R, Python, SQL, Markdown  
 - **Libraries/Packages:** postgresql, tidyverse, ggplot2, pandas, matplotlib  
-- **Visualisation:** QGIS, ArcGIS  
+- **Visualisation:** QGIS, ArcGIS, Excel
 - **Focus Areas:** Biodiversity data analysis, ecological statistics, reproducible workflows  
