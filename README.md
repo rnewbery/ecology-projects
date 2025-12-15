@@ -11,7 +11,7 @@ It highlights analytical and visual projects developed using **R, Python, and SQ
   Data cleaning, summary statistics, species abundance, Shannon Diversity calculations, habitat-level summaries, and dashboard visualisations.
 
 - [**Butterfly Survey (Phase 1 Hab)**](./butterfly-survey)
-  Interactive visualisation of habitat data and survey metrics.
+  Data cleaning, species abundance, species richness, habitat summaries and a GIS map of survey areas.
 
 - [**Garden Birdwatch Summary**](./garden-birdwatch-summary)  
   Python script automating the categorisation and summary of bird survey data.  
