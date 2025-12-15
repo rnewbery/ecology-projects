@@ -79,18 +79,16 @@ Dashboards include:
 
 ---
 
----
-
 ## Repository Structure
 wetland-bird-survey/
 ├── data/
-│ └── wetland_birds.csv
+│   └── wetland_birds.csv
 ├── scripts/
-│ └── wetland_bird_analysis.R
+│   └── wetland_bird_analysis.R
 ├── plots/
-│ └── *.png
+│   └── *.png
 ├── dashboards/
-│ └── dashboard_images/
+│   └── dashboard_images/
 └── README.md
 
 ## Future Work
